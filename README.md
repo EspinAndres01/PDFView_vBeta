@@ -1,6 +1,6 @@
 # PDFView Beta
 
-![PDFView Logo](url_del_logo)
+![PDFView Logo](https://github.com/EspinAndres01/PDFView_vBeta/raw/main/assets/logo1.jpg)
 
 ---
 
