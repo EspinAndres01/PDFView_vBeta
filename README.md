@@ -1,4 +1,4 @@
-# PDFView Beta
+# PDFView Beta - KIBOTECH
 
 ![PDFView Logo](https://github.com/EspinAndres01/PDFView_vBeta/raw/main/assets/logo1.jpg)
 
